@@ -1,0 +1,1949 @@
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866621)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_35_0.xml	(date 1752422866621)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.35.0/opentelemetry-sdk-extension-autoconfigure-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.35.0/opentelemetry-sdk-extension-autoconfigure-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.35.0/opentelemetry-sdk-extension-autoconfigure-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866678)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_35_0.xml	(date 1752422866678)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.35.0/opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.35.0/opentelemetry-sdk-extension-autoconfigure-spi-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.35.0/opentelemetry-sdk-extension-autoconfigure-spi-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866534)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_35_0.xml	(date 1752422866534)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-sdk:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk/1.35.0/opentelemetry-sdk-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk/1.35.0/opentelemetry-sdk-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk/1.35.0/opentelemetry-sdk-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866573)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_35_0.xml	(date 1752422866573)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-sdk-common:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-common/1.35.0/opentelemetry-sdk-common-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-common/1.35.0/opentelemetry-sdk-common-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-common/1.35.0/opentelemetry-sdk-common-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866806)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_35_0.xml	(date 1752422866806)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-sdk-trace:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-trace/1.35.0/opentelemetry-sdk-trace-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-trace/1.35.0/opentelemetry-sdk-trace-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-trace/1.35.0/opentelemetry-sdk-trace-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_semconv_opentelemetry_semconv_1_23_1_alpha.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_semconv_opentelemetry_semconv_1_23_1_alpha.xml b/.idea/libraries/Maven__io_opentelemetry_semconv_opentelemetry_semconv_1_23_1_alpha.xml
+new file mode 100644
+--- /dev/null	(date 1752422866840)
++++ b/.idea/libraries/Maven__io_opentelemetry_semconv_opentelemetry_semconv_1_23_1_alpha.xml	(date 1752422866840)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry.semconv:opentelemetry-semconv:1.23.1-alpha">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/semconv/opentelemetry-semconv/1.23.1-alpha/opentelemetry-semconv-1.23.1-alpha.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/semconv/opentelemetry-semconv/1.23.1-alpha/opentelemetry-semconv-1.23.1-alpha-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/semconv/opentelemetry-semconv/1.23.1-alpha/opentelemetry-semconv-1.23.1-alpha-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866725)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_35_0.xml	(date 1752422866725)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-sdk-logs:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-logs/1.35.0/opentelemetry-sdk-logs-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-logs/1.35.0/opentelemetry-sdk-logs-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-logs/1.35.0/opentelemetry-sdk-logs-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866768)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_35_0.xml	(date 1752422866768)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-sdk-metrics:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-metrics/1.35.0/opentelemetry-sdk-metrics-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-metrics/1.35.0/opentelemetry-sdk-metrics-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-metrics/1.35.0/opentelemetry-sdk-metrics-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866359)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_35_0.xml	(date 1752422866359)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-api:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-api/1.35.0/opentelemetry-api-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-api/1.35.0/opentelemetry-api-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-api/1.35.0/opentelemetry-api-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_35_0_alpha.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_35_0_alpha.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_35_0_alpha.xml
+new file mode 100644
+--- /dev/null	(date 1752422866393)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_35_0_alpha.xml	(date 1752422866393)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-api-events:1.35.0-alpha">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-api-events/1.35.0-alpha/opentelemetry-api-events-1.35.0-alpha.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-api-events/1.35.0-alpha/opentelemetry-api-events-1.35.0-alpha-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-api-events/1.35.0-alpha/opentelemetry-api-events-1.35.0-alpha-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__dev_failsafe_failsafe_3_3_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_2.xml b/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_2.xml
+new file mode 100644
+--- /dev/null	(date 1752422866301)
++++ b/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_2.xml	(date 1752422866301)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: dev.failsafe:failsafe:3.3.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_3_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_3_0.xml b/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_3_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866332)
++++ b/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_5_3_0.xml	(date 1752422866332)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.github.bonigarcia:webdrivermanager:5.3.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/github/bonigarcia/webdrivermanager/5.3.0/webdrivermanager-5.3.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/github/bonigarcia/webdrivermanager/5.3.0/webdrivermanager-5.3.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/github/bonigarcia/webdrivermanager/5.3.0/webdrivermanager-5.3.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866453)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_35_0.xml	(date 1752422866453)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-exporter-logging:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-exporter-logging/1.35.0/opentelemetry-exporter-logging-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-exporter-logging/1.35.0/opentelemetry-exporter-logging-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-exporter-logging/1.35.0/opentelemetry-exporter-logging-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_extension_incubator_1_35_0_alpha.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_extension_incubator_1_35_0_alpha.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_extension_incubator_1_35_0_alpha.xml
+new file mode 100644
+--- /dev/null	(date 1752422866494)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_extension_incubator_1_35_0_alpha.xml	(date 1752422866494)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-extension-incubator:1.35.0-alpha">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-extension-incubator/1.35.0-alpha/opentelemetry-extension-incubator-1.35.0-alpha.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-extension-incubator/1.35.0-alpha/opentelemetry-extension-incubator-1.35.0-alpha-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-extension-incubator/1.35.0-alpha/opentelemetry-extension-incubator-1.35.0-alpha-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_35_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_35_0.xml b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_35_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866425)
++++ b/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_35_0.xml	(date 1752422866425)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.opentelemetry:opentelemetry-context:1.35.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-context/1.35.0/opentelemetry-context-1.35.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-context/1.35.0/opentelemetry-context-1.35.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-context/1.35.0/opentelemetry-context-1.35.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1752422868278)
++++ b/.idea/workspace.xml	(date 1752422868278)
+@@ -0,0 +1,85 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="87949cb5-6ec5-421a-bcb7-6696a0e29551" name="Changes" comment="init project" />
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="DemoTestcase" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="HARD" />
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="MavenImportPreferences">
++    <option name="generalSettings">
++      <MavenGeneralSettings>
++        <option name="useMavenConfig" value="true" />
++      </MavenGeneralSettings>
++    </option>
++  </component>
++  <component name="ProjectId" id="2zpHXRBM8MXXHBYmezBiU7cm4tG" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true"
++  }
++}]]></component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="87949cb5-6ec5-421a-bcb7-6696a0e29551" name="Changes" comment="" />
++      <created>1752421135952</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1752421135952</updated>
++    </task>
++    <task id="LOCAL-00001" summary="init project">
++      <created>1752422297969</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1752422297970</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
++    <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="init project" />
++    <option name="LAST_COMMIT_MESSAGE" value="init project" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_guava_failureaccess_1_0_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_2.xml b/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_2.xml
+new file mode 100644
+--- /dev/null	(date 1752422866097)
++++ b/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_2.xml	(date 1752422866097)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.guava:failureaccess:1.0.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_guava_guava_33_1_0_jre.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_google_guava_guava_33_1_0_jre.xml b/.idea/libraries/Maven__com_google_guava_guava_33_1_0_jre.xml
+new file mode 100644
+--- /dev/null	(date 1752422866136)
++++ b/.idea/libraries/Maven__com_google_guava_guava_33_1_0_jre.xml	(date 1752422866136)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.guava:guava:33.1.0-jre">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/33.1.0-jre/guava-33.1.0-jre.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/33.1.0-jre/guava-33.1.0-jre-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/33.1.0-jre/guava-33.1.0-jre-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml b/.idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422866014)
++++ b/.idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml	(date 1752422866014)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.code.gson:gson:2.9.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.9.1/gson-2.9.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.9.1/gson-2.9.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.9.1/gson-2.9.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_26_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_26_1.xml b/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_26_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422866062)
++++ b/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_26_1.xml	(date 1752422866062)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.errorprone:error_prone_annotations:2.26.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_codec_commons_codec_1_15.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml b/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml
+new file mode 100644
+--- /dev/null	(date 1752422866237)
++++ b/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml	(date 1752422866237)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-codec:commons-codec:1.15">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.15/commons-codec-1.15.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.15/commons-codec-1.15-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.15/commons-codec-1.15-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_io_commons_io_2_15_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__commons_io_commons_io_2_15_1.xml b/.idea/libraries/Maven__commons_io_commons_io_2_15_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422866261)
++++ b/.idea/libraries/Maven__commons_io_commons_io_2_15_1.xml	(date 1752422866261)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-io:commons-io:2.15.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.15.1/commons-io-2.15.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.15.1/commons-io-2.15.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml b/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml
+new file mode 100644
+--- /dev/null	(date 1752422866167)
++++ b/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml	(date 1752422866167)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_j2objc_j2objc_annotations_3_0_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_3_0_0.xml b/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_3_0_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866208)
++++ b/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_3_0_0.xml	(date 1752422866208)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.j2objc:j2objc-annotations:3.0.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_github_docker_java_docker_java_api_3_2_13.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_github_docker_java_docker_java_api_3_2_13.xml b/.idea/libraries/Maven__com_github_docker_java_docker_java_api_3_2_13.xml
+new file mode 100644
+--- /dev/null	(date 1752422865721)
++++ b/.idea/libraries/Maven__com_github_docker_java_docker_java_api_3_2_13.xml	(date 1752422865721)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.github.docker-java:docker-java-api:3.2.13">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-api/3.2.13/docker-java-api-3.2.13.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-api/3.2.13/docker-java-api-3.2.13-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-api/3.2.13/docker-java-api-3.2.13-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_github_docker_java_docker_java_core_3_2_13.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_github_docker_java_docker_java_core_3_2_13.xml b/.idea/libraries/Maven__com_github_docker_java_docker_java_core_3_2_13.xml
+new file mode 100644
+--- /dev/null	(date 1752422865756)
++++ b/.idea/libraries/Maven__com_github_docker_java_docker_java_core_3_2_13.xml	(date 1752422865756)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.github.docker-java:docker-java-core:3.2.13">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-core/3.2.13/docker-java-core-3.2.13.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-core/3.2.13/docker-java-core-3.2.13-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-core/3.2.13/docker-java-core-3.2.13-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml b/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml
+new file mode 100644
+--- /dev/null	(date 1752422865641)
++++ b/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml	(date 1752422865641)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_github_docker_java_docker_java_3_2_13.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_github_docker_java_docker_java_3_2_13.xml b/.idea/libraries/Maven__com_github_docker_java_docker_java_3_2_13.xml
+new file mode 100644
+--- /dev/null	(date 1752422865686)
++++ b/.idea/libraries/Maven__com_github_docker_java_docker_java_3_2_13.xml	(date 1752422865686)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.github.docker-java:docker-java:3.2.13">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java/3.2.13/docker-java-3.2.13.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java/3.2.13/docker-java-3.2.13-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java/3.2.13/docker-java-3.2.13-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_1_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_1_1.xml b/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_1_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422865919)
++++ b/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_1_1.xml	(date 1752422865919)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.auto.service:auto-service-annotations:1.1.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml b/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml
+new file mode 100644
+--- /dev/null	(date 1752422865969)
++++ b/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml	(date 1752422865969)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.code.findbugs:jsr305:3.0.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_2_13.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_2_13.xml b/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_2_13.xml
+new file mode 100644
+--- /dev/null	(date 1752422865807)
++++ b/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_3_2_13.xml	(date 1752422865807)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.github.docker-java:docker-java-transport:3.2.13">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-transport/3.2.13/docker-java-transport-3.2.13.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-transport/3.2.13/docker-java-transport-3.2.13-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-transport/3.2.13/docker-java-transport-3.2.13-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_github_docker_java_docker_java_transport_httpclient5_3_2_13.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_httpclient5_3_2_13.xml b/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_httpclient5_3_2_13.xml
+new file mode 100644
+--- /dev/null	(date 1752422865859)
++++ b/.idea/libraries/Maven__com_github_docker_java_docker_java_transport_httpclient5_3_2_13.xml	(date 1752422865859)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.github.docker-java:docker-java-transport-httpclient5:3.2.13">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-transport-httpclient5/3.2.13/docker-java-transport-httpclient5-3.2.13.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-transport-httpclient5/3.2.13/docker-java-transport-httpclient5-3.2.13-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/github/docker-java/docker-java-transport-httpclient5/3.2.13/docker-java-transport-httpclient5-3.2.13-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_beust_jcommander_1_82.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_beust_jcommander_1_82.xml b/.idea/libraries/Maven__com_beust_jcommander_1_82.xml
+new file mode 100644
+--- /dev/null	(date 1752422864975)
++++ b/.idea/libraries/Maven__com_beust_jcommander_1_82.xml	(date 1752422864975)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.beust:jcommander:1.82">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_codeborne_selenide_7_2_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_codeborne_selenide_7_2_2.xml b/.idea/libraries/Maven__com_codeborne_selenide_7_2_2.xml
+new file mode 100644
+--- /dev/null	(date 1752422865014)
++++ b/.idea/libraries/Maven__com_codeborne_selenide_7_2_2.xml	(date 1752422865014)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.codeborne:selenide:7.2.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/7.2.2/selenide-7.2.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/7.2.2/selenide-7.2.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide/7.2.2/selenide-7.2.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1752422864913)
++++ b/.idea/modules.xml	(date 1752422864913)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/DemoTestcase.iml" filepath="$PROJECT_DIR$/DemoTestcase.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml b/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml
+new file mode 100644
+--- /dev/null	(date 1752422865362)
++++ b/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml	(date 1752422865362)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml b/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml
+new file mode 100644
+--- /dev/null	(date 1752422865578)
++++ b/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml	(date 1752422865578)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_codeborne_selenide_core_7_2_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__com_codeborne_selenide_core_7_2_2.xml b/.idea/libraries/Maven__com_codeborne_selenide_core_7_2_2.xml
+new file mode 100644
+--- /dev/null	(date 1752422865048)
++++ b/.idea/libraries/Maven__com_codeborne_selenide_core_7_2_2.xml	(date 1752422865048)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.codeborne:selenide-core:7.2.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide-core/7.2.2/selenide-core-7.2.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide-core/7.2.2/selenide-core-7.2.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/codeborne/selenide-core/7.2.2/selenide-core-7.2.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: DemoTestcase.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/DemoTestcase.iml b/DemoTestcase.iml
+new file mode 100644
+--- /dev/null	(date 1752422864873)
++++ b/DemoTestcase.iml	(date 1752422864873)
+@@ -0,0 +1,85 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
++    <output url="file://$MODULE_DIR$/target/classes" />
++    <output-test url="file://$MODULE_DIR$/target/test-classes" />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
++      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
++      <excludeFolder url="file://$MODULE_DIR$/target" />
++    </content>
++    <orderEntry type="jdk" jdkName="openjdk-24" jdkType="JavaSDK" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="library" name="Maven: com.codeborne:selenide:7.2.2" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: com.google.auto.service:auto-service-annotations:1.1.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chromium-driver:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-json:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-manager:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-devtools-v120:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-devtools-v121:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-devtools-v122:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-devtools-v85:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-edge-driver:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-http:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: dev.failsafe:failsafe:3.3.2" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-ie-driver:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-remote-driver:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry.semconv:opentelemetry-semconv:1.23.1-alpha" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-api:1.35.0" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-context:1.35.0" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-exporter-logging:1.35.0" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-common:1.35.0" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.35.0" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.35.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Maven: io.opentelemetry:opentelemetry-api-events:1.35.0-alpha" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-trace:1.35.0" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Maven: io.opentelemetry:opentelemetry-extension-incubator:1.35.0-alpha" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk:1.35.0" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-metrics:1.35.0" level="project" />
++    <orderEntry type="library" name="Maven: io.opentelemetry:opentelemetry-sdk-logs:1.35.0" level="project" />
++    <orderEntry type="library" name="Maven: net.bytebuddy:byte-buddy:1.14.12" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-os:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.commons:commons-exec:1.3" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-support:4.18.1" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.12" level="project" />
++    <orderEntry type="library" name="Maven: com.codeborne:selenide-core:7.2.2" level="project" />
++    <orderEntry type="library" name="Maven: org.opentest4j:opentest4j:1.3.0" level="project" />
++    <orderEntry type="library" name="Maven: com.google.guava:guava:33.1.0-jre" level="project" />
++    <orderEntry type="library" name="Maven: com.google.guava:failureaccess:1.0.2" level="project" />
++    <orderEntry type="library" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
++    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
++    <orderEntry type="library" name="Maven: org.checkerframework:checker-qual:3.42.0" level="project" />
++    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.26.1" level="project" />
++    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:3.0.0" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.14.0" level="project" />
++    <orderEntry type="library" name="Maven: commons-io:commons-io:2.15.1" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:7.7.0" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.82" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.webjars:jquery:3.6.1" level="project" />
++    <orderEntry type="library" name="Maven: io.github.bonigarcia:webdrivermanager:5.3.0" level="project" />
++    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.9.1" level="project" />
++    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java:3.2.13" level="project" />
++    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-core:3.2.13" level="project" />
++    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-api:3.2.13" level="project" />
++    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.21" level="project" />
++    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.3" level="project" />
++    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.3" level="project" />
++    <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.64" level="project" />
++    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.64" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.30" level="project" />
++    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-transport-httpclient5:3.2.13" level="project" />
++    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-transport:3.2.13" level="project" />
++    <orderEntry type="library" name="Maven: net.java.dev.jna:jna:5.8.0" level="project" />
++    <orderEntry type="library" name="Maven: org.brotli:dec:0.1.2" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.httpcomponents.client5:httpclient5:5.1.3" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5:5.1.3" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.1.3" level="project" />
++    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.15" level="project" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_slf4j_api_2_0_12.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_12.xml b/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_12.xml
+new file mode 100644
+--- /dev/null	(date 1752422868186)
++++ b/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_12.xml	(date 1752422868186)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:slf4j-api:2.0.12">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_testng_testng_7_7_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_testng_testng_7_7_0.xml b/.idea/libraries/Maven__org_testng_testng_7_7_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422868220)
++++ b/.idea/libraries/Maven__org_testng_testng_7_7_0.xml	(date 1752422868220)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.testng:testng:7.7.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.7.0/testng-7.7.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.7.0/testng-7.7.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.7.0/testng-7.7.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422868078)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_18_1.xml	(date 1752422868078)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-support:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.18.1/selenium-support-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.18.1/selenium-support-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/4.18.1/selenium-support-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml b/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml
+new file mode 100644
+--- /dev/null	(date 1752422868131)
++++ b/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml	(date 1752422868131)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:jcl-over-slf4j:1.7.30">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1752422868380)
++++ b/.idea/vcs.xml	(date 1752422868380)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_webjars_jquery_3_6_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_webjars_jquery_3_6_1.xml b/.idea/libraries/Maven__org_webjars_jquery_3_6_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422868262)
++++ b/.idea/libraries/Maven__org_webjars_jquery_3_6_1.xml	(date 1752422868262)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.webjars:jquery:3.6.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/jquery/3.6.1/jquery-3.6.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/jquery/3.6.1/jquery-3.6.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/jquery/3.6.1/jquery-3.6.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1752422868317)
++++ b/.idea/misc.xml	(date 1752422868317)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867811)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_18_1.xml	(date 1752422867811)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-java:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/4.18.1/selenium-java-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/4.18.1/selenium-java-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/4.18.1/selenium-java-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867864)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_18_1.xml	(date 1752422867864)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-json:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-json/4.18.1/selenium-json-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-json/4.18.1/selenium-json-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-json/4.18.1/selenium-json-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867766)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_18_1.xml	(date 1752422867766)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/4.18.1/selenium-ie-driver-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/4.18.1/selenium-ie-driver-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/4.18.1/selenium-ie-driver-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867984)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_18_1.xml	(date 1752422867984)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/4.18.1/selenium-remote-driver-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/4.18.1/selenium-remote-driver-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/4.18.1/selenium-remote-driver-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422868030)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_18_1.xml	(date 1752422868030)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/4.18.1/selenium-safari-driver-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/4.18.1/selenium-safari-driver-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/4.18.1/selenium-safari-driver-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867904)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_18_1.xml	(date 1752422867904)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-manager:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-manager/4.18.1/selenium-manager-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-manager/4.18.1/selenium-manager-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-manager/4.18.1/selenium-manager-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_os_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_os_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_os_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867948)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_os_4_18_1.xml	(date 1752422867948)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-os:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-os/4.18.1/selenium-os-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-os/4.18.1/selenium-os-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-os/4.18.1/selenium-os-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v121_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v121_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v121_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867546)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v121_4_18_1.xml	(date 1752422867546)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v121:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v121/4.18.1/selenium-devtools-v121-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v121/4.18.1/selenium-devtools-v121-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v121/4.18.1/selenium-devtools-v121-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v122_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v122_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v122_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867583)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v122_4_18_1.xml	(date 1752422867583)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v122:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v122/4.18.1/selenium-devtools-v122-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v122/4.18.1/selenium-devtools-v122-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v122/4.18.1/selenium-devtools-v122-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867449)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_18_1.xml	(date 1752422867449)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-chromium-driver:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chromium-driver/4.18.1/selenium-chromium-driver-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chromium-driver/4.18.1/selenium-chromium-driver-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chromium-driver/4.18.1/selenium-chromium-driver-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v120_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v120_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v120_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867489)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v120_4_18_1.xml	(date 1752422867489)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v120:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v120/4.18.1/selenium-devtools-v120-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v120/4.18.1/selenium-devtools-v120-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v120/4.18.1/selenium-devtools-v120-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867692)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_18_1.xml	(date 1752422867692)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/4.18.1/selenium-firefox-driver-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/4.18.1/selenium-firefox-driver-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/4.18.1/selenium-firefox-driver-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867730)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_18_1.xml	(date 1752422867730)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-http:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-http/4.18.1/selenium-http-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-http/4.18.1/selenium-http-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-http/4.18.1/selenium-http-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867616)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_18_1.xml	(date 1752422867616)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v85:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v85/4.18.1/selenium-devtools-v85-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v85/4.18.1/selenium-devtools-v85-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-devtools-v85/4.18.1/selenium-devtools-v85-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867654)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_18_1.xml	(date 1752422867654)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-edge-driver/4.18.1/selenium-edge-driver-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-edge-driver/4.18.1/selenium-edge-driver-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-edge-driver/4.18.1/selenium-edge-driver-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml b/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml
+new file mode 100644
+--- /dev/null	(date 1752422867247)
++++ b/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml	(date 1752422867247)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.bouncycastle:bcprov-jdk15on:1.64">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_brotli_dec_0_1_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_brotli_dec_0_1_2.xml b/.idea/libraries/Maven__org_brotli_dec_0_1_2.xml
+new file mode 100644
+--- /dev/null	(date 1752422867283)
++++ b/.idea/libraries/Maven__org_brotli_dec_0_1_2.xml	(date 1752422867283)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.brotli:dec:0.1.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/brotli/dec/0.1.2/dec-0.1.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/brotli/dec/0.1.2/dec-0.1.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/brotli/dec/0.1.2/dec-0.1.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_1_3.xml b/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_1_3.xml
+new file mode 100644
+--- /dev/null	(date 1752422867187)
++++ b/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_1_3.xml	(date 1752422867187)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.1.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/core5/httpcore5-h2/5.1.3/httpcore5-h2-5.1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/core5/httpcore5-h2/5.1.3/httpcore5-h2-5.1.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/core5/httpcore5-h2/5.1.3/httpcore5-h2-5.1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml b/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml
+new file mode 100644
+--- /dev/null	(date 1752422867217)
++++ b/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml	(date 1752422867217)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.bouncycastle:bcpkix-jdk15on:1.64">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867380)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_18_1.xml	(date 1752422867380)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-api:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.18.1/selenium-api-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.18.1/selenium-api-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.18.1/selenium-api-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_18_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_18_1.xml b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_18_1.xml
+new file mode 100644
+--- /dev/null	(date 1752422867416)
++++ b/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_18_1.xml	(date 1752422867416)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.18.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/4.18.1/selenium-chrome-driver-4.18.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/4.18.1/selenium-chrome-driver-4.18.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/4.18.1/selenium-chrome-driver-4.18.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_checkerframework_checker_qual_3_42_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_checkerframework_checker_qual_3_42_0.xml b/.idea/libraries/Maven__org_checkerframework_checker_qual_3_42_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422867320)
++++ b/.idea/libraries/Maven__org_checkerframework_checker_qual_3_42_0.xml	(date 1752422867320)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.checkerframework:checker-qual:3.42.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml b/.idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422867349)
++++ b/.idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml	(date 1752422867349)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.opentest4j:opentest4j:1.3.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml b/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml
+new file mode 100644
+--- /dev/null	(date 1752422866956)
++++ b/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml	(date 1752422866956)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.commons:commons-compress:1.21">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.21/commons-compress-1.21-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.21/commons-compress-1.21-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml b/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml
+new file mode 100644
+--- /dev/null	(date 1752422866994)
++++ b/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml	(date 1752422866994)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.commons:commons-exec:1.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-exec/1.3/commons-exec-1.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-exec/1.3/commons-exec-1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_12.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_12.xml b/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_12.xml
+new file mode 100644
+--- /dev/null	(date 1752422866884)
++++ b/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_12.xml	(date 1752422866884)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: net.bytebuddy:byte-buddy:1.14.12">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__net_java_dev_jna_jna_5_8_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__net_java_dev_jna_jna_5_8_0.xml b/.idea/libraries/Maven__net_java_dev_jna_jna_5_8_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422866919)
++++ b/.idea/libraries/Maven__net_java_dev_jna_jna_5_8_0.xml	(date 1752422866919)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: net.java.dev.jna:jna:5.8.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.8.0/jna-5.8.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.8.0/jna-5.8.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_1_3.xml b/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_1_3.xml
+new file mode 100644
+--- /dev/null	(date 1752422867088)
++++ b/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_1_3.xml	(date 1752422867088)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.httpcomponents.client5:httpclient5:5.1.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/client5/httpclient5/5.1.3/httpclient5-5.1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/client5/httpclient5/5.1.3/httpclient5-5.1.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/client5/httpclient5/5.1.3/httpclient5-5.1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_3.xml b/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_3.xml
+new file mode 100644
+--- /dev/null	(date 1752422867123)
++++ b/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_3.xml	(date 1752422867123)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.httpcomponents.core5:httpcore5:5.1.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/core5/httpcore5/5.1.3/httpcore5-5.1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/core5/httpcore5/5.1.3/httpcore5-5.1.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/core5/httpcore5/5.1.3/httpcore5-5.1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_commons_commons_lang3_3_14_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_14_0.xml b/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_14_0.xml
+new file mode 100644
+--- /dev/null	(date 1752422867049)
++++ b/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_14_0.xml	(date 1752422867049)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.commons:commons-lang3:3.14.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file

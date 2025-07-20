@@ -13,8 +13,8 @@ public class Home {
     @BeforeClass
     public void setUp() {
         // Set up the browser configuration using Selenide
-        Configuration.browser = "chrome"; // You can use "firefox" or others too
-        Configuration.headless = false; // Set to true to run the test in headless mode
+        Configuration.browser = "chrome"; 
+        Configuration.headless = false;
     }
 
     @Test
@@ -23,7 +23,7 @@ public class Home {
         open("https://demo.testarchitect.com/");
 
         // Step 2: Click on the "Shop" tab in the top bar
-        $("#menu-item-5578").click(); // Assuming the Shop tab is an anchor tag with href '/shop'
+        $("#menu-item-5578").click(); 
 
         // Step 3: Verify the Shop page is displayed
         // Wait for a unique element to appear on the Shop page (e.g., Shop header)
